@@ -20,7 +20,7 @@ GameObject:
   - component: {fileID: 2581318384535977047}
   - component: {fileID: 9184484908962901936}
   - component: {fileID: 5599194992872180427}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84,12 +84,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: d24e114fe51ff0249af9d03d9a45220b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ae8da6dc078eed24ea43d7cf451f2eb5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 8.228572, y: 3.6571429}
+  m_Size: {x: 1.2571429, y: 1.1428572}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -157,9 +157,9 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.15}
-    oldSize: {x: 8.228572, y: 3.6571429}
-    newSize: {x: 8.228572, y: 3.6571429}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.2571429, y: 1.1428572}
+    newSize: {x: 1.2571429, y: 1.1428572}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5396529685870176518}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1d7adda04be63514aba0781b42364b50, type: 3}
+  m_Script: {fileID: 11500000, guid: f82e8f6b01142b748a021dc4ae761794, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!95 &4541407111733437152
